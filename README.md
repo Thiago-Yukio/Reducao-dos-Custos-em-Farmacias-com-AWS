@@ -1,5 +1,15 @@
 # Reducao-dos-Custos-em-Farmacias-com-AWS
 
+## Objetivo:
+
+Projeto desenvolvido como parte do desafio da DIO, com o objetivo de propor soluções em nuvem utilizando serviços AWS para redução de custos operacionais em uma distribuidora farmacêutica fictícia. O relatório apresenta casos de uso dos serviços Amazon S3, Amazon EC2 e AWS Lambda, destacando seus benefícios em armazenamento, processamento e automação de processos.
+
+---
+
+# 👇 SEGUE O RELATÓRIO ABAIXO: 👇
+
+## RELATÓRIO DE REDUÇÃO DOS CUSTOS EM FARMACIAS COM AWS
+
 **Data:** 06/06/2026  
 **Empresa:** Abstergo Industries  
 **Responsável:** Thiago Yukio
